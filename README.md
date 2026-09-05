@@ -22,6 +22,7 @@ JIN 想做 Q版内容
 SKILL.md
 references/
   viral-baselines.md       # JIN 已确认的爆款案例
+  topic-tracker.md         # 已做题材去重、当前选中主题与继续入口
 research/
   pending-review.md        # 外部研究与 AI 新发现，等待 JIN 审核
 knowledge/

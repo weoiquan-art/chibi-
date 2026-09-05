@@ -52,10 +52,11 @@ description: A topic-ideation and learning Skill focused on Q-version / chibi sh
 
 详细记录见：`references/viral-baselines.md`。
 
-当前两条爆款基线：
+当前三条爆款基线：
 
 1. **披萨外送菲比**
 2. **欢迎回家：糯糯 + 菲比 + Sera**
+3. **菲比安检员：X 光检查后给 POV 手上盖章**
 
 不要把“爆款”理解成可以机械复制结构。应该学习它们为什么有效，然后寻找新的题材表达。
 
@@ -120,6 +121,10 @@ description: A topic-ideation and learning Skill focused on Q-version / chibi sh
 
 ## 4. 题材生成时优先检查什么
 
+生成新主题前，先读 `references/topic-tracker.md`，对照已做题材和当前选中主题，避免把旧题材换角色后重新推荐。用户说“继续”时，先恢复其中的当前进度；保留创作者确定的核心事件，把 AI 补充细节标为建议。
+
+区分“已做”“创作者确认爆款”“创作者选中但待制作”和“AI 候选待测”；“有爆款潜力”不等于已有爆款成绩。
+
 每个候选题材至少要能回答：
 
 - **开头发生什么？**
@@ -139,7 +144,7 @@ description: A topic-ideation and learning Skill focused on Q-version / chibi sh
 
 ## 5. 选题输出格式
 
-默认一次给少量高质量候选，不要一次输出几十个空泛点子。
+默认一次给少量高质量候选，通常 3 个，数量按创作者当次要求调整。不要一次输出几十个空泛点子。
 
 推荐格式：
 
