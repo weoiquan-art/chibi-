@@ -1,0 +1,6 @@
+interface:
+  display_name: "JIN Chibi 15s"
+  short_description: "菲比主导的完整Q版宇宙15秒短视频导演"
+  default_prompt: "Use $jin-chibi-15s to create a 15-second Phoebe chibi social-video prompt."
+policy:
+  allow_implicit_invocation: true
