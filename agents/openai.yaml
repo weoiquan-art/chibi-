@@ -1,6 +1,6 @@
 interface:
-  display_name: "Q版社交短视频导演"
-  short_description: "15秒Q版真实POV短视频提示词"
-  default_prompt: "Use $qversion-social-short-video to create a 15-second Q-version social video prompt."
+  display_name: "JIN四小只视频导演"
+  short_description: "菲比、糯糯、Sera与咕嘎的15秒视频提示词"
+  default_prompt: "Use $qversion-social-short-video to turn my rough four-character idea into a production-ready 15-second video prompt."
 policy:
   allow_implicit_invocation: true
