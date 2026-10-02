@@ -1,6 +1,6 @@
 interface:
-  display_name: "JIN四小只视频导演"
-  short_description: "菲比、糯糯、Sera与咕嘎的15秒视频提示词"
-  default_prompt: "Use $qversion-social-short-video to turn my rough four-character idea into a production-ready 15-second video prompt."
+  display_name: "JIN Chibi剧情与视频导演"
+  short_description: "构思无厘头日常与本体和Q版互动，将已给剧情转成统一模板视频提示词"
+  default_prompt: "Use $qversion-social-short-video to turn my Chibi plot into video prompts using the asset-and-shot template."
 policy:
   allow_implicit_invocation: true
