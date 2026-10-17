@@ -15,6 +15,7 @@ description: Create Chibi stories and production-ready video prompts for JIN's Q
 
 | 本次需要解决什么 | 只读对应补充 |
 |---|---|
+| 新聊天开场；不确定现在用哪套模板；想知道 2026-10-05 之后 JIN 的决定与实测 | [交接与注意事项](references/handoff-and-notes.md)；读完本文件后先读 |
 | 已有主题、信息充分的 15 秒片段 | 本文件＋实际出镜角色资料；按下文写主题或 Prompt |
 | 新日常主题、无厘头、奇怪动作表达情绪 | [无厘头剧情知识](references/absurd-comedy-story.md)；只要剧情时不提前写镜头或 Prompt |
 | 本体 × Q版、多个本体与 Q版、加入新角色 | [混合角色知识](references/body-q-comedy.md)；分别确认身份、形态与声音权限 |
@@ -25,6 +26,8 @@ description: Create Chibi stories and production-ready video prompts for JIN's Q
 | 1–2 分钟故事、明确的其他长片时长，或同一故事跨多个片段 | [长故事知识](references/long-story-knowledge.md)；已有完整剧情直接使用 |
 | 连续动作中需检查露脸、遮挡、取景反应、保持／停止，或逐句对照成片与压缩已有Prompt | [词组与画面对应](references/prompt-to-frame-check.md)；保留原句上下文，核对变化前后可见内容 |
 | 追溯方法来源、比较新旧规则或复盘证据冲突 | [原始方法论](references/claude-original-methodology.md)与当前相关案例 |
+
+新聊天或换聊天后，读完本文件先读《交接与注意事项》。其中带日期的记录不覆盖本文件原文，口径不同的地方按该文件第 3 节处理。
 
 “想主题”本身不触发长故事分支。新日常主题可优先用无厘头方式表达情绪；明确的治愈、安静观察、已定剧情与 BASE 优先。用户只要主题或剧情就交对应内容；已授权一并写提示词时继续完成，新增创作不冒充既定 Canon。已有剧情转 Prompt 默认先按模板生成，不重新审批同一剧情；模板负责补齐执行信息，不制造新资产或关系设定。既有欢迎回家、继承稿及复刻任务仍按下文各自入口选取所需资料。
 
