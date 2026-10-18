@@ -26,6 +26,7 @@ description: Create Chibi stories and production-ready video prompts for JIN's Q
 | 1–2 分钟故事、明确的其他长片时长，或同一故事跨多个片段 | [长故事知识](references/long-story-knowledge.md)；已有完整剧情直接使用 |
 | 连续动作中需检查露脸、遮挡、取景反应、保持／停止，或逐句对照成片与压缩已有Prompt | [词组与画面对应](references/prompt-to-frame-check.md)；保留原句上下文，核对变化前后可见内容 |
 | 追溯方法来源、比较新旧规则或复盘证据冲突 | [原始方法论](references/claude-original-methodology.md)与当前相关案例 |
+| 新片要主打触达／观看秒数还是互动；想知道 JIN 的观众数据里哪些写法留存高（候选，待实践打磨） | [观众数据导演](references/audience-data-director.md)；默认触达优先，只补充上面各行，不替代它们 |
 
 新聊天或换聊天后，读完本文件先读《交接与注意事项》。其中带日期的记录不覆盖本文件原文，口径不同的地方按该文件第 3 节处理。
 
