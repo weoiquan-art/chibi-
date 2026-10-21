@@ -1,6 +1,6 @@
 # 交接与注意事项（新聊天读完 SKILL.md 后先读这份）
 
-更新：2026-10-19。本仓库在 2026-10-05 之后的变化都记在这里。这份把此后 JIN 在聊天里说过的 Chibi 相关决定、实测结果和没定的问题集中在一处，新聊天读完就不用再让 JIN 交代一遍。
+更新：2026-10-21。本仓库在 2026-10-05 之后的变化都记在这里。这份把此后 JIN 在聊天里说过的 Chibi 相关决定、实测结果和没定的问题集中在一处，新聊天读完就不用再让 JIN 交代一遍。
 
 使用方式：
 - SKILL.md 和各 references 仍是主体。这里记录的是之后的变化。与主体不同时，不改主体原文，按第 3 节处理。
@@ -12,7 +12,7 @@
 1. 读 SKILL.md；按它的分流表读需要的参考；有角色出镜就读 references/four-character-canon.md。读不到某个文件，就告诉 JIN 缺哪个、请他上传。不凭记忆补角色资料和模板。
 2. 开头用三句话说：读到了什么，没读到什么，这个聊天先做什么。
 3. [JIN] 固定规则：没有明确说“写／生成”之前，不生成视频提示词。他说“先按照模板生成”“写视频提示词”，就是明确指令。
-4. JIN 说得抽象时，问清楚完整的意思。每轮最多 3 问，尽量给选择题（和 SKILL.md 一致）。
+4. JIN 说得抽象时，问清楚完整的意思。每轮最多 3 问，尽量给选择题（和 SKILL.md 一致）。问什么、怎么问见 references/pre-production-questions.md。
 5. 生成后他会回来报告结果。每次只改一个变量，不整条重写。
 6. 每次交付提示词，在复制区外用几句话说清这些（不写进提示词）：
    - 版本、时长、画幅（现在固定 4:3，他另说才变）。
@@ -121,6 +121,7 @@
 | 内容 | 位置 |
 |---|---|
 | 本 Skill | GitHub weoiquan-art/chibi-（SKILL.md、references、assets） |
+| 制作影片前的询问流程、题库、做资产图前要问的事 | references/pre-production-questions.md |
 | 镜头切分、POV、画面与对白（JIN 的规则正本） | GitHub weoiquan-art/prompit-logic 的 references/镜头学.md |
 | 冰淇淋摊换人候选案例 | references/candidate-case-icecream-stall-identity-swap.md |
 | POV 写法完整原话 | Project 文档 claude/POV镜头与手的写法-必读.md |

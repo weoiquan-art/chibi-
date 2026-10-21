@@ -16,6 +16,7 @@ description: Create Chibi stories and production-ready video prompts for JIN's Q
 | 本次需要解决什么 | 只读对应补充 |
 |---|---|
 | 新聊天开场；不确定现在用哪套模板；想知道 2026-10-05 之后 JIN 的决定与实测 | [交接与注意事项](references/handoff-and-notes.md)；读完本文件后先读 |
+| JIN 说“写”之前或之后需要问什么：底稿、结构、风格段、出镜名单、结尾；以及做资产图前 | [制作影片前的询问流程](references/pre-production-questions.md)；每轮最多 3 问，答过的不再问 |
 | 已有主题、信息充分的 15 秒片段 | 本文件＋实际出镜角色资料；按下文写主题或 Prompt |
 | 新日常主题、无厘头、奇怪动作表达情绪 | [无厘头剧情知识](references/absurd-comedy-story.md)；只要剧情时不提前写镜头或 Prompt |
 | 本体 × Q版、多个本体与 Q版、加入新角色 | [混合角色知识](references/body-q-comedy.md)；分别确认身份、形态与声音权限 |
