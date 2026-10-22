@@ -67,7 +67,7 @@
 - 角色行走、蹲下与围拢所需的短路径；
 - POV 开门、低头、蹲下或站起的真实原因。
 
-家具布局不参与动作时允许自然补全。若门的内外、第一帧摄影机一侧或灯光归属会改变空间，必须先按主 Skill 的第一帧规则锁定。
+家具布局不参与动作时允许自然补全。若门的内外、第一帧摄影机一侧或灯光归属会改变空间，必须先按 jin-seedance-prompt-logic 核心第 4 条锁定。
 
 ## 验收
 
@@ -87,5 +87,5 @@
 - 要复用用户喜欢的 10 秒原稿：读取 `welcome-home-10s-user-original.md`；
 - 要参考后来写出的 15 秒加强稿：读取 `welcome-home-15s-template.md`，不把它称为已验证爆款；
 - 要选用门外首帧修订：读取 `welcome-home-15s-template-door-outside-variant.md`；
-- 要保持原版结构只换动作：执行主 Skill 的 Minimal-Delta Mode；
+- 要保持原版结构只换动作：按 jin-seedance-prompt-logic 第一节第 4 步“写”里的最小改动（原 Minimal-Delta Mode）；
 - 要创作新的迎接题材：使用本文件的功能与节拍，不机械复制拖鞋、滑铲和钥匙。
